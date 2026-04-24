@@ -14,9 +14,9 @@ Système de *Boot* : Séquence d'initialisation sécurisée au lancement du scri
 Gestion du temps : Horloge système intégrée pour le monitoring des sessions.
 
 ## 🔐 Sécurité & Stockage
-Système d'Authentification : Accès restreint par mot de passe Administrateur.
+Système d'Authentification : Accès restreint par mot de passe **Administrateur**.
 Le *Vault* (Coffre-fort) : Implémentation du fichier *vault.json* pour la persistance des données et des paramètres utilisateur.
-Protection des fichiers : Structure de dossiers organisée pour séparer les fichiers système des fichiers utilisateur.
+Protection des **fichiers** : Structure de dossiers organisée pour séparer les fichiers système des fichiers **utilisateur**.
 
 ## Applications & Installation 
 Vous pouvez installer des applications directement sur **AsponeStore**
