@@ -18,6 +18,6 @@ Système d'Authentification : Accès restreint par mot de passe Administrateur.
 Le *Vault* (Coffre-fort) : Implémentation du fichier *vault.json* pour la persistance des données et des paramètres utilisateur.
 Protection des fichiers : Structure de dossiers organisée pour séparer les fichiers système des fichiers utilisateur.
 
-##Applications & Installation 
+## Applications & Installation 
 Vous pouvez installer des applications directement sur **AsponeStore**
 Il n'y a seulement quelques applications d'autres applications seront ajoutés a l'avenir.
