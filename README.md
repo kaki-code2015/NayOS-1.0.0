@@ -5,7 +5,7 @@
 - Plateforme : Cross-platform **(Python 3.x)**
   
 ## 📖 À propos
-NayOS est un environnement système virtuel simulant une interface de terminal sécurisée. Conçu pour la **stabilité** et la **légèreté**, il pose les bases d'un écosystème informatique complet incluant la gestion de données sensibles et une interface de communication **intelligente**.
+NayOS est un **OS Wrapper** avec une interface de **terminal** colorée. Conçu pour la **stabilité** et la **légèreté**, il pose les bases d'un écosystème informatique complet incluant la gestion de données sensibles et une interface de communication **intelligente**.
 
 ## 🛠️ Fonctionnalités de la v1.0.0
 🖥️ Noyau & Interface
